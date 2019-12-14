@@ -10,11 +10,11 @@ cd ~/MIF
 
 mkdir -p ~/.local/bin
 echo '#!/bin/bash'>~/.local/bin/git.sh
-echo "git add ." »~/.local/bin/git.sh
-echo "git commit -m '$1'" »~/.local/bin/git.sh
+echo "git add ." >>~/.local/bin/git.sh
+echo "git commit -m '$1'" >>~/.local/bin/git.sh
 echo "git push"
 chmod +x ~/.local/bin/git.sh
-echo "export PATH=\"$PATH:$HOME/.local/bin\"" »~/.bashrc
+echo "export PATH=\"$PATH:$HOME/.local/bin\"" >>~/.bashrc
 
 Каждую строку скопируй и вставь в терминал нажимая Enter.
 Это создаст файл в директории ~/home/.local/bin
