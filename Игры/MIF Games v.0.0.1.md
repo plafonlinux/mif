@@ -33,7 +33,7 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
 
 # Полный список игр из моей Steam библиотеки
 
-#A 
+# A 
 
 ## - Albion: Online [NATIVE]
 
@@ -56,7 +56,7 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
 
 #
 
-#B 
+# B 
 
 ## - Battlefield: Bad Company 2 [PROTON]
 
@@ -64,7 +64,7 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
 - Более 100FPS на GeForce 1050Ti
 - Игра полностью на русском языке
 	
-#C 
+# C 
 
 ## - Crysis [PROTON]
 
@@ -76,7 +76,7 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
 - DXVK c DirectX 11 
 - Игра работает отлично на Proton 4.11-9
 	
-#D
+# D
 
 ## - DOOM [PROTON]
 
@@ -87,7 +87,7 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
 E 	
 F 	
 
-#G
+# G
 
 ## - GTA V [PROTON]
 
@@ -100,7 +100,7 @@ J
 
 #
 	
-#K 
+# K 
 
 ## - KILLING FLOOR [PROTON]
 
