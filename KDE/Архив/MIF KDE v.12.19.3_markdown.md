@@ -21,7 +21,7 @@ git clone https://github.com/aliva/gedit-markdownpreview.git markdownpreview
 
 - ## Как правильно разметить диск для твоего Линукса?
 
-####Вариант 1: Для тех у кого мало места или для самых экономных
+#### Вариант 1: Для тех у кого мало места или для самых экономных
 
 ```
 boot/efi                                [FAT32] = 300 Мб
@@ -29,7 +29,7 @@ boot/efi                                [FAT32] = 300 Мб
 /home                                   [EXT4]  = все оставшееся место
 ```
 
-####Вариант 2: Мои варианты разметки, который некоторые критикует, за не бережность к свободному месту, но я уже много лет примерно так и размечаю систему и всем остаюсь доволен ... На ваш выбор вообщем ...
+#### Вариант 2: Мои варианты разметки, который некоторые критикует, за не бережность к свободному месту, но я уже много лет примерно так и размечаю систему и всем остаюсь доволен ... На ваш выбор вообщем ...
 
 ### - На примере SSD 120 Гб = 112640 Мб
 
@@ -313,7 +313,7 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
  ``` sudo pacman -S lutris wine wine-staging winetricks protontrics ```  
 
 #
-######Источник: [Проект PortWine](http://portwine-linux.ru/portwine-faq/)
+###### Источник: [Проект PortWine](http://portwine-linux.ru/portwine-faq/)
 #
 
 ## 08. [НАБОР НЕОБХОДИМОГО СОФТА](https://docs.google.com/document/d/1Aul7Ds7wuaWA6LtvQB8qGTFKy0aMgTORN-1Yvz-hYCo/edit#heading=h.ky2zvj1r8b3q)
@@ -406,7 +406,7 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
 #
 #
 
-#####<center> ``` КОНЕЦ ФАЙЛА M.I.F. ``` </center>
+##### <center> ``` КОНЕЦ ФАЙЛА M.I.F. ``` </center>
 
 #
 #
@@ -473,7 +473,7 @@ git clone https://github.com/aliva/gedit-markdownpreview.git markdownpreview
 #
 #
 
-####<center>  ``` ПРОЕКТ @PLAFONLINUX (2017-2020)  ```  </center>
+#### <center>  ``` ПРОЕКТ @PLAFONLINUX (2017-2020)  ```  </center>
 
 #
 #
